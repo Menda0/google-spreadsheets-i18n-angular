@@ -7,18 +7,14 @@
   "ignore": [],
   "repository": {
     "type": "git",
-    "url": "git://github.com/angular-translate/angular-translate"
+    "url": "https://github.com/Menda0/google-spreadsheets-i18n-angular"
   },
   "main": "./dist/angular-translate.js",
   "devDependencies": {
-    "angular": "~1.2.26",
-    "angular-mocks": "~1.2.26",
-    "angular-cookies": "~1.2.26",
-    "angular-sanitize": "~1.2.26",
-    "messageformat": "~1.0.2"
+    "angular": "~1.6.8"
   },
   "resolutions": {
-    "angular": "~1.2.26"
+    "angular": "~1.6.8"
   },
   "license": "MIT"
 }
