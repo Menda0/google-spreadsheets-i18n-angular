@@ -1,10 +1,9 @@
 {
   "name": "google-spreadsheets-i18n-angular",
-  "version": "0.0.1",
-  "private": true,
+  "version": "1.0.0",
+  "private": false,
   "scripts": {},
   "dependencies": {
-    "angular": "1.6.8",
-    "angular-translate":"2.17.0"
+    "angular": "1.6.8"
   }
 }
